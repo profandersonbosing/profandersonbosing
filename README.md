@@ -2,8 +2,7 @@
 
 > Professor universitário e Tech Lead — trabalho com integrações, back-end e ensino de POO e Web Services.
 
-[![GitHub followers](https://img.shields.io/github/followers/SEU-USUARIO?label=Seguidores&style=social)](https://github.com/SEU-USUARIO)
-[![Twitter Follow](https://img.shields.io/twitter/follow/SEU_TWITTER?style=social)](https://twitter.com/SEU_TWITTER)
+[![GitHub followers](https://img.shields.io/github/followers/profandersonbosing?label=Seguidores&style=social)](https://github.com/SEU-USUARIO)
 
 ---
 
@@ -21,7 +20,7 @@
 
 ## 📈 Estatísticas
 <!-- GitHub Readme Stats (exemplo, substitua SEU-USUARIO) -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=S&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=radical)
 
 ---
